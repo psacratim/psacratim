@@ -10,7 +10,7 @@ Meu nome é Pedro e sou um desenvolvedor iniciante com o foco em back-end usando
 ### Banco de Dados:
 [![Linguagens com Pouca Experiência:](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
-### Conecte-se comigo
+### Redes
 <div>
     <a href="https://www.linkedin.com/in/psacratim/" target="_blank">
         <img src="https://github.com/psacratim/psacratim/blob/main/assets/linkedin-icon.png?raw=true" alt="Ícone do LinkedIn" title="Meu LinkedIn" width="35" height="35" />
