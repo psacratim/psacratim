@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou o Pedro
+### 👋 Olá! Eu sou o Pedro.
 **Tenho experiência com Java e C# como desenvolvedor back-end e de sistemas.**
 
 ### Tenho experiência com:
