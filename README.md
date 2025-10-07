@@ -1,14 +1,8 @@
-### Quem sou?
-Meu nome é Pedro e sou um desenvolvedor iniciante com o foco em back-end usando as linguagens Java e C#, criando soluções com POO. Mesmo meu foco sendo as linguagens Java e C#, já tive experiência em outros projetos com as linguagens: JavaScript/TypeScript, Lua/Luau, Python e GoLang.
+### 👋 Olá! Eu sou o Pedro
+**Tenho experiência com Java e C# como desenvolvedor back-end e de sistemas.**
 
-### Linguagens Principais
-[![Minhas Linguagens Principais:](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
-
-### Linguagens com pouca experiência:
-[![Linguagens com Pouca Experiência:](https://skillicons.dev/icons?i=js,ts,lua,py)](https://skillicons.dev)
-
-### Banco de Dados:
-[![Linguagens com Pouca Experiência:](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+### Tenho experiência com:
+[![Experiência com:](https://skillicons.dev/icons?i=java,spring,cs,mysql)](https://skillicons.dev)
 
 ### Redes
 <div>
